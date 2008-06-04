@@ -1,0 +1,15 @@
+Gettext2db
+==========
+
+replaces the default gettext methods to write your gettext keys into the DB. 
+This allows easy translation of your app and to create a backend to easily translate your app in a team.
+
+
+have a look at ./examples and ./lib
+
+TODO:
+
+* write tests
+
+
+Copyright (c) 2008 [Michael Bumann - railslove.com], released under the MIT license
